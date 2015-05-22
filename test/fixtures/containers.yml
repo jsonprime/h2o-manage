@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  volume_ml: 9.99
+  volume_oz: 9.99
+  refillable: false
+  last_refill_date: 2015-05-22
+  expiration_date: 2015-05-22
+  empty: false
+  user_id: 
+
+two:
+  description: MyString
+  volume_ml: 9.99
+  volume_oz: 9.99
+  refillable: false
+  last_refill_date: 2015-05-22
+  expiration_date: 2015-05-22
+  empty: false
+  user_id: 
